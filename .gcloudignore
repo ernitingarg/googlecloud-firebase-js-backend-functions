@@ -1,0 +1,8 @@
+.gcloudignore
+.git
+.gitignore
+.vscode
+node_modules
+package-lock.json
+#!include:.gitignore
+*.md
